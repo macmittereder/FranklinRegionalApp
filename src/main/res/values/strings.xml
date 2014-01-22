@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Franklin Regional</string>
+    <string name="title1">Home</string>
+    <string name="title2">High School</string>
+    <string name="title3">Middle School</string>
+    <string name="title4">Newlonsburg Elementary</string>
+    <string name="title5">Heritage Elementary</string>
+    <string name="title6">Sloan Elementry</string>
+    <string name="title7">Moodle</string>
+    <string name="title8">SME</string>
+    <string name="title9">WiueAcademy</string>
+    <string name="title10">Other</string>
+    <string name="title11">Back</string>
+    <string name="title12">About Us</string>
+    <string name="title13">Calender</string>
+    <string name="title14">School Board</string>
+    <string name="title15">Academics</string>
+    <string name="title16">Deparments</string>
+    <string name="title17">Parents/Community</string>
+    <string name="title18">News</string>
+    <string name="title19">Athletics</string>
+    <string name="bug">BUG/ERROR</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
